@@ -1,0 +1,15 @@
+{
+    "name": "flori/my-framework-php",
+    "authors": [
+        {
+            "name": "florian",
+            "email": "florianbracq42@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Router\\": "routes/"
+        }
+    },
+    "require": {}
+}
